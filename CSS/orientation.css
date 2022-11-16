@@ -2,3 +2,74 @@ h1
 {
     text-align: center;
 }
+
+.image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+nav{
+    display: inline-block;
+    border-style: solid;
+    border: 5px;
+}
+.navList
+{
+    list-style-type: none;
+    border-style: solid;
+    border: 5px;
+}
+.listElement
+{
+    float: left;
+}
+li a{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+#overview
+{
+    border: solid black 3px;
+    padding: 5px;
+    background-color: white;
+    margin: 10px
+}
+
+#ovarian
+{
+    border: solid black 3px;
+    padding: 5px;
+    background-color: white;
+    margin: 10px
+}
+
+#reflection
+{
+    border: solid black 3px;
+    padding: 5px;
+    background-color: white;
+    margin: 10px
+}
+
+#works
+{
+    border: solid black 3px;
+    padding: 5px;
+    background-color: white;
+    margin: 10px
+}
+
+#cited
+{
+    text-indent: -36px;
+    padding-left: 36px;
+}
+
+body{
+    background-color: rgba(137, 137, 221, 0.599);
+}
